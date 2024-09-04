@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SleepyCoffeeDev
 - 👀 I’m interested in Game Dev (Pygame)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Game Dev and Pygame
 - 📫 How to reach me ...
 
 <!---
