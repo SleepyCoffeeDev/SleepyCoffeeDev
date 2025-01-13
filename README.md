@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SleepyCoffeeDev
-- 👀 I’m interested in Game Dev (Pygame, SDL2, MonoGame)
-- 🌱 I’m currently learning Game Dev and Pygame
+- 👀 I’m interested in Game Dev with Godot
+- 🌱 I’m currently learning Game Dev and Godot
 - 📫 How to reach me ...
 
 <!---
