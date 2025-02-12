@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SleepyCoffeeDev
-- 👀 I’m interested in Game Dev with Godot
-- 🌱 I’m currently learning Game Dev and Godot
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning Game Dev and Unity
 - 📫 How to reach me ...
 
 <!---
